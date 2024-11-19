@@ -16,8 +16,6 @@ public class Agendamento {
 		setData(data); // Chamada ao método setData para validar a data
 	}
 
-	// Métodos getter e setter
-
 	public Cliente getCliente() {
 		return cliente;
 	}
